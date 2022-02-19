@@ -16,6 +16,8 @@
     <li>FrontEnd - React.js, React-Native</li>
     <li>BackEnd - NodeJS, Express</li>
     <li>Mobile - Android (Kotlin), React-Native</li>
+    <li>Software - Android Studios, VSCode, Linux/UNIX </li>
+    <li>Scripting/Automating - Bash, Python</li>
 </ul>
 
 
