@@ -14,8 +14,8 @@
 <ul>
     <li>Languages: Python, Javascript, Kotlin, HTML/CSS</li>
     <li>FrontEnd - React.js, React-Native</li>
-    <li>BackEnd - NodeJS, Express<li>
-    <li>Mobile - Android (Kotlin), React-Native<li>
+    <li>BackEnd - NodeJS, Express</li>
+    <li>Mobile - Android (Kotlin), React-Native</li>
 </ul>
 
 
