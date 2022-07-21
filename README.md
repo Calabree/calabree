@@ -8,7 +8,7 @@
 
 ## About me:
 
-<p>I am a junior developer who has a great mind for solving problems of all different calibres. Creating solutions such as <a href="https://github.com/Calabree/rtxbot">my RTX stock monitoring bot</a> to helping out friends who need <a href="https://github.com/Calabree/lucia_footwear">a new website for thier company</a>. Learning new frameworks and languages is also something I enjoy! The challange of learning something new, coupled with the ability of being able to walk away from a project with more knowledge than when I started, creates a level of excitement and enjpyment in what I do.</p>
+<p>I am a junior developer who has a great mind for solving problems of all different calibres. Creating solutions such as <a href="https://github.com/Calabree/rtxbot">my RTX stock monitoring bot</a> to helping out friends who need <a href="https://github.com/Calabree/lucia_footwear">a new website for their company</a>. Learning new frameworks and languages is also something I enjoy! The challange of learning something new, coupled with the ability of being able to walk away from a project with more knowledge than when I started, creates a level of excitement and enjpyment in what I do.</p>
 
 
 <h2>My Specialtizes</h2>
